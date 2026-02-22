@@ -3528,6 +3528,7 @@ iipdigital.usembassy.gov
 ||sylfoundation.org
 ||syncback.com
 !--------------------TT-------------------------
+||tor.eff.org
 ||tails.net
 ||bbc.pdn.tritondigital.com
 ||terobox.com
@@ -3823,6 +3824,7 @@ iipdigital.usembassy.gov
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||uniswap.org
 ||up.audio
 ||udomain.hk
 ||upbit.com
