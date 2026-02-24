@@ -1945,6 +1945,7 @@ iipdigital.usembassy.gov
 ||eyevio.jp
 ||eyny.com
 !--------------------FF-------------------------
+||freedom.gov
 ||hyperbeam.com
 ||flowgpt.com
 ||forefront.ai
